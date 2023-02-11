@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/LFSoto/MERNTask-Servidor#readme",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
